@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap>
+    <entry>
+        <key>latestVersion</key>
+        <value>1.0</value>
+    </entry>
+    <entry>
+        <key>forceUpdate</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>releaseNotes</key>
+        <value>- Feature 1</value>
+    </entry>
+    <entry>
+        <key>updateUrl</key>
+        <value>https://nandroidex.wordpress.com/</value>    <!--TODO : PLAY STORE URL-->
+    </entry>
+</defaultMap>
