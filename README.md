@@ -113,4 +113,4 @@ if (currentVersion.toFloat() != latestVersion.toFloat()) {
 
 # Thanks
 
-<h2>Your contributions are welcome.</h2>
+<b>Your contributions are welcome.</b>
