@@ -16,12 +16,7 @@ If you haven't already, [add Firebase to your Android project](https://firebase.
 implementation 'com.google.firebase:firebase-config:19.0.4'
 ```
 
-<h2>Open Remote Config in Console</h2>
-
-![](https://i.ibb.co/YLBKxWc/image.png)
-
-
-<h2>Add needed parameters and publish</h2>
+<h2>Open Remote Config in Console, Add needed parameters and publish</h2>
 
 ![](https://i.ibb.co/SrKXS0g/image.png)
 
