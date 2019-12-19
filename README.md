@@ -1,6 +1,12 @@
 # Remote-Config-App-Update-Dialog
 
-Add Firebase to your app
+<h2>What is Firebase Remote Config?</h2>
+
+It helps to change the behavior and appearance of your app without publishing an app update, at no cost, for unlimited daily active users.
+
+Firebase Remote Config is a cloud service that lets you change the behavior and appearance of your app without requiring users to download an app update. When using Remote Config, you create in-app default values that control the behavior and appearance of your app. Then, you can later use the Firebase console or the Remote Config REST API to override in-app default values for all app users or for segments of your user base. Your app controls when updates are applied, and it can frequently check for updates and apply them with a negligible impact on performance.
+
+<h2>Add Firebase to your app</h2>
 
 If you haven't already, [add Firebase to your Android project](https://firebase.google.com/docs/android/setup).
 
