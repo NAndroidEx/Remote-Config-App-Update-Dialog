@@ -1,5 +1,7 @@
 # Remote-Config-App-Update-Dialog
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb918005617e4cb1a47b4c113cc7b58a)](https://app.codacy.com/manual/niraj-prajapati/Remote-Config-App-Update-Dialog?utm_source=github.com&utm_medium=referral&utm_content=niraj-prajapati/Remote-Config-App-Update-Dialog&utm_campaign=Badge_Grade_Dashboard)
+
 It helps to change the behavior and appearance of your app without publishing an app update, at no cost, for unlimited daily active users.
 
 <h2>What is Firebase Remote Config?</h2>
